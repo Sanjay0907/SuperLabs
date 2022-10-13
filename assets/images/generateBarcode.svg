@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36" height="34" viewBox="0 0 36 34">
+  <defs>
+    <rect id="rect-1" width="36" height="34" x="0" y="0"/>
+    <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="userSpaceOnUse">
+      <rect width="36" height="34" x="0" y="0" fill="black"/>
+      <use fill="white" xlink:href="#rect-1"/>
+    </mask>
+  </defs>
+  <g>
+    <use fill="none" xlink:href="#rect-1"/>
+    <g mask="url(#mask-2)">
+      <rect width="3" height="17" x="6" y="8.5" fill="rgb(51,51,51)" rx="0" ry="0"/>
+      <rect width="36" height="34" x="0" y="0" fill="none" rx="0" ry="0"/>
+      <rect width="1.5" height="17" x="15" y="8.5" fill="rgb(51,51,51)" rx="0" ry="0"/>
+      <rect width="1.5" height="17" x="11.15" y="8.5" fill="rgb(51,51,51)" rx="0" ry="0"/>
+      <rect width="1.5" height="17" x="24" y="8.5" fill="rgb(51,51,51)" rx="0" ry="0"/>
+      <rect width="3" height="17" x="27" y="8.5" fill="rgb(51,51,51)" rx="0" ry="0"/>
+      <rect width="3" height="17" x="18" y="8.5" fill="rgb(51,51,51)" rx="0" ry="0"/>
+      <path fill="rgb(51,51,51)" fill-rule="evenodd" d="M9 2.83333333H1.5V9.91666667H3V4.25h6V2.83333333z"/>
+      <path fill="rgb(51,51,51)" fill-rule="evenodd" d="M27 31.16666667h7.5V24.08333333H33V29.75h-6v1.41666667z"/>
+      <path fill="rgb(51,51,51)" fill-rule="evenodd" d="M1.5 24.08333333V31.16666667H9V29.75H3v-5.66666667H1.5z"/>
+      <path fill="rgb(51,51,51)" fill-rule="evenodd" d="M34.5 9.91666667V2.83333333H27V4.25h6v5.66666667h1.5z"/>
+    </g>
+  </g>
+</svg>
